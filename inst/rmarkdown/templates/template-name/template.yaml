@@ -1,0 +1,4 @@
+name: Glasgowthesis
+description: >
+Create a thesis document according to UofG guidelines.
+create_dir: TRUE
