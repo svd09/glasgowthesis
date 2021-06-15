@@ -8,7 +8,7 @@ Authors@R:
            email = "s.deo.1@research.gla.ac.uk",
            comment = c(ORCID = "0000-0002-4729-1461"))
 Description: The package provides tools to use Rmarkdown for writing a thesis. The thesis is formatted according to the University of Glasgow guidelines.
-License: `use_mit_license()`
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
